@@ -11,9 +11,9 @@
 
 Структура Makefile:
 -all
---Lec2_Lec3_1
---Lec2_Lec3_2
---Lec2_Lec3_3
---Lec4_1
---Lec4_2
---Lec4_3
+  -Lec2_Lec3_1
+  -Lec2_Lec3_2
+  -Lec2_Lec3_3
+  -Lec4_1
+  -Lec4_2
+  -Lec4_3
