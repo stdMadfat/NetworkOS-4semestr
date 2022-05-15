@@ -93,7 +93,7 @@ ___
 Тестирование 
 ```
 mypipe is created  
-$ echo Hello_world! > mypipe  
+$ echo Eureka! > mypipe  
 mypipe is opened  
 Incomming message (8): Eureka! 
   
