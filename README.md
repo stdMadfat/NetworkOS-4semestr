@@ -68,7 +68,6 @@ my pid = 22781, returned pid = 22782
 my pid = 22782, returned pid = 0
 ```
 ___
-___
 ## <a name="Lecture4">Лекция 4</a>
 #### <a name="Program_№12">Program №1</a>  
 Сигналы. Пример работы программы.
