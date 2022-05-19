@@ -1,6 +1,8 @@
 #include<stdio.h>
 #include<fcntl.h>
 #include<errno.h>
+#include <unistd.h>
+#include <stdlib.h>
 
 extern int errno;
 
