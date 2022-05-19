@@ -4,6 +4,7 @@
 #include <stdlib.h>
 #include <unistd.h>
 #include <string.h>
+#include <stdlib.h>
 int main(int argc, char *argv[])
 {
     int pipefd[2]; /*Массив файловых дескрипторов*/
