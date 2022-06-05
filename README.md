@@ -11,6 +11,8 @@
    + [Program №1](#Program_№12)
    + [Program №2](#Program_№22)
    + [Program №3](#Program_№32)
++ [Lec7](#Lecture7)
+   + [Program №1](#Program_№13)
 
 Операционные системы, подходящие для установки и запуска программ:
 - GNU/Linux.
@@ -26,6 +28,7 @@
   - Lec4_1
   - Lec4_2
   - Lec4_3
+  - Lec7_1
 
 ## Обзор программ и результов их работы
 ___
@@ -108,3 +111,12 @@ Incomming message (8): Eureka!
 read error: Success  
 ```
 ___
+## <a name="Lecture7">Лекция 7</a>
+#### <a name="Program_№13">Program №1</a>  
+Потоки. Пример работы программы.
+
+
+
+Тестирование  
+
+___ 
